@@ -1,0 +1,28 @@
+.bleu {
+    color: blue;
+}
+
+#para2 {
+    font-family: courier, sans-serif;
+}
+
+#para3 {
+    text-align: center;
+}
+
+#para4 {
+    font-size: 50px;
+}
+
+.jaune {
+    background-color: yellow;
+}
+
+.center {
+    text-align: center;
+}
+
+.border {
+    border: solid blue;
+    min-height: 200px;
+}
